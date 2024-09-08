@@ -1,0 +1,32 @@
+{
+    "profiles": [
+        {
+            "name": "João da Silva",
+            "id": "1",
+            "forces": [
+                "Disciplinado",
+                "Focado",
+                "Leal",
+                "Trabalha bem em equipe",
+                "Alto nível de especialização",
+                "Executor eficiente",
+                "Valoriza clareza nas instruções"
+            ],
+            "attentionPoints": [
+                "Esquecimento",
+                "Dificuldade em generalizar",
+                "Resistência a mudanças"
+            ],
+            "motivators": [
+                "Trabalhos bem definidos",
+                "Equipes colaborativas",
+                "Reconhecimento"
+            ],
+            "demotivators": [
+                "Ambientes caóticos",
+                "Falta de clareza nas expectativas",
+                "Ser o centro das atenções"
+            ]
+        }
+    ]
+}

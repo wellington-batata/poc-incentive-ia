@@ -1,0 +1,21 @@
+{
+  "name": "poc-incentive-ia",
+  "version": "1.0.0",
+  "description": "POC de analise de dados para sugestões de melhorias",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon",
+    "build": "npx tsc"
+ },
+  "author": "wellington guimarães",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.5.4",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2"
+  }
+}
